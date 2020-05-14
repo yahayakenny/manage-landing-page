@@ -222,7 +222,7 @@ a {
     margin-left: 5px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
    .topNav li:not(:first-child) {display: none;}
 
    ul .start {
