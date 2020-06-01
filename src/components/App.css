@@ -8,16 +8,13 @@ body {
     margin: 0px;
     font-family: 'Be Vietnam', sans-serif;
 }
+
 .topNav {
     overflow: hidden;
-   
-
-  
 }
 
 .topNav .icon {
     display: none;
-
 }
 
 
@@ -26,8 +23,6 @@ li {
     margin-left: 50px; 
     font-size: 20px;
     margin-top: 20px;
-    
-
 }
 
 ul li:first-of-type {
@@ -62,12 +57,12 @@ a {
     color: black;
     font-size: 30px;
     margin-top: 20px
-
 }
 
 .bring {
     font-size: 35px;
 }
+
 
 .manage {
     font-size : 10px
@@ -75,13 +70,13 @@ a {
 
 .started {
     font-size : 10px
-
 }
 
 .flexOne {
     display: flex;
     margin-top: 70px;
 }
+
 .flexLeft {
     width: 300px;
     margin-left: 150px;
@@ -130,14 +125,12 @@ a {
     text-align: center;
     border-radius: 15px;
     color: white;
-    font-size: 8px;
-    
+    font-size: 8px;   
 } 
 
 .track {
     font-weight: 900;
     font-size: 20px
-
 }
 
 .text {
@@ -183,8 +176,7 @@ a {
     display: flex;
     justify-content: space-around;
     background-color: black;
-    color: white;
-    
+    color: white;  
 }
 
 .foot {
@@ -238,13 +230,16 @@ a {
     padding: 10px;
     border-radius: 25px;
 }
+
 .flexOne {
     display: flex;
     flex-direction: column;
 }
+
 .flexLeft {
     margin-left: 50px;
 }
+
 .product img{
     width: 450px;
     margin-left: 30px;
@@ -253,9 +248,10 @@ a {
 
 .flexTwo {
     display: flex;
-    flex-direction: column;
+    flex-direction: column
 
 }
+
 .flexLeftTwo {
     margin-left: 50px;
 }

@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-
 import "./App.css"
 import ali from "./images/ali.png"
 import anisha from "./images/anisha.png"
@@ -11,7 +10,6 @@ class Feedback extends Component {
             <div>
                 <h1 style={{marginLeft:"130px", fontWeight: 800 , marginTop: "50px"}}>What they've said</h1>
                 <div className="flexfeedback">
-                    
                     <div className="feedback1">
                         <img src ={anisha} className="feed"/>
                         <h6>Anisha Li</h6>
@@ -31,17 +29,9 @@ class Feedback extends Component {
                         <h6>“Manage has supercharged our team’s workflow. The ability to maintain 
                         visibility on larger milestones at all times keeps everyone motivated.”</h6>
                     </div>
-
-
-                </div>
-                
-                
+                </div>   
             </div>
-
-
         )
-
-
     }
 }
 

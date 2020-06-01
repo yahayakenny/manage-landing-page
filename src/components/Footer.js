@@ -17,7 +17,6 @@ class Footer extends Component {
                      <a href="/"><i className="fab fa-twitter"></i></a>
                      <a href="/"><i className="fab fa-pinterest"></i></a>
                      <a href="/"><i className="fab fa-instagram"></i></a>
-
                     </div>
                     <div className="foot">
                         <p>Home</p>
@@ -28,18 +27,14 @@ class Footer extends Component {
                     <div className="foot">
                         <p>Careers</p>
                         <p>Community</p>
-                        <p>Privacy Policy</p>
-                        
+                        <p>Privacy Policy</p>  
                     </div>
 
                     <div className="details">
                         <input type="text" placeholder="Updates in your inbox"/>
                         <button>Go</button>
-                    </div>
-                  
-                    
+                    </div>  
                 </div>
-                
             </div>
         )
     }

@@ -22,10 +22,7 @@ import illustration from "./images/illustration.svg"
 
                     <div className ="product">
                         <img src={illustration} />
-
-
                     </div>
-
                 </div>
                 
             </div>
